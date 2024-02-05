@@ -1,4 +1,14 @@
 # Byte-compiled / optimized / DLL files
+
+#custom
+
+.venv/
+
+old_base.txt
+store.txt
+
+
+
 __pycache__/
 *.py[cod]
 *$py.class
